@@ -1,4 +1,4 @@
-# Hola, mi nombre es Sebastian Navarrete 🐱‍👤👍
+# ![](https://github.com/strpalgato/strpalgato/blob/main/emote.png?raw=true) Hola, mi nombre es Sebastian Navarrete 🐱‍👤👍
 
 Soy estudiante de Ingeniería en Informática en DuocUC
 <!--
