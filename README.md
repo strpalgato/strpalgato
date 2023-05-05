@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola, mi nombre es Sebastian Navarrete 🐱‍👤👍
 
+Soy estudiante de Ingeniería en Informática en DuocUC
 <!--
 **strpalgato/strpalgato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
