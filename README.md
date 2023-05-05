@@ -1,4 +1,4 @@
-### Hola, mi nombre es Sebastian Navarrete 🐱‍👤👍
+# Hola, mi nombre es Sebastian Navarrete 🐱‍👤👍
 
 Soy estudiante de Ingeniería en Informática en DuocUC
 <!--
