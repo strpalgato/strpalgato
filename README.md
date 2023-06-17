@@ -1,7 +1,6 @@
 <div align="center">
   <p>
-    <h1>¡Hola, mi nombre es Sebastian Navarrete!</h1>
-    <img src="https://github.com/strpalgato/strpalgato/blob/main/emote.png?raw=true">
+    <h1>🐱‍👤 ¡Hola, mi nombre es Sebastian Navarrete! 🐱‍👤</h1>
   </p>
 </div>
 
