@@ -56,9 +56,15 @@
 </div>
 </p>
 
-<div align="center">
-  Soy estudiante de Ingeniería en Informática en DuocUC
-</div>
+<p>
+  <div align="center">
+    Soy estudiante de Ingeniería en Informática en DuocUC
+    <br><br>
+    <a href="https://www.credly.com/badges/1cd4a045-8ff5-4bb7-90e1-2ef75f465b8f/public_url" target"_blank">
+      <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="180px">
+    </a>
+  </div>
+</p>
 <!--
 **strpalgato/strpalgato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
