@@ -1,6 +1,9 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hola,+soy+Sebastian.;Me+encanta+programar.;Me+gustan+los+videojuegos.;Y+aprender+cosas.;&center=true&width=500&height=50"></a>
-</p>
+<div align="center">
+  <p>
+    <h1>¡Hola, mi nombre es Sebastian Navarrete!</h1>
+    <img src="https://github.com/strpalgato/strpalgato/blob/main/emote.png?raw=true">
+  </p>
+</div>
 
 <p>
 <div align="center" target="_blank">
