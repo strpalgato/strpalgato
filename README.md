@@ -58,12 +58,22 @@
 </div>
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Termius-000?logo=termius&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=for-the-badge">
+</div>
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/UML-FABD14?logo=uml&logoColor=000&style=for-the-badge">
+</div>
 
 <p>
   <div align="center">
