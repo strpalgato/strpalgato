@@ -64,6 +64,12 @@
   <img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=for-the-badge">
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?logo=nginxproxymanager&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=homeassistant&logoColor=fff&style=for-the-badge">
+</div>
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
