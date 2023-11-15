@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 </p>
 
@@ -28,7 +29,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">  
 </div>
 </p>
 
@@ -43,6 +44,7 @@
 <p>
   <div align="center">
       <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </div>
 </p>
 
@@ -58,20 +60,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</div>
-</p>
-
-<div align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Termius-000?logo=termius&logoColor=fff&style=for-the-badge">
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=for-the-badge">
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?logo=nginxproxymanager&logoColor=fff&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=homeassistant&logoColor=fff&style=for-the-badge">
-</div>
+</p>
 
 <p>
 <div align="center">
