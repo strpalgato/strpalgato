@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <h1>🐱‍👤 ¡Hola, mi nombre es Sebastian Navarrete! 🐱‍👤</h1>
+    <h1> Estudiante Instituto Profesional DuocUC </h1>
   </p>
 </div>
 
@@ -78,7 +78,7 @@
 
 <p>
   <div align="center">
-    Soy estudiante de Ingeniería en Informática en DuocUC
+    <b>Certificados</b>
     <br><br>
     <a href="https://www.credly.com/badges/1cd4a045-8ff5-4bb7-90e1-2ef75f465b8f/public_url" target"_blank">
       <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="180px">
@@ -87,15 +87,3 @@
 </p>
 <!--
 **strpalgato/strpalgato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
