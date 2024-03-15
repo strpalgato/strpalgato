@@ -8,7 +8,10 @@
   <p align="center">I am studying Computer Engineering and I am also a hobby content creator. I usually code different types of applications which I like to deploy on cloud devices. While my career has to do with project management and software development, I also like hardware and home automation.</p>
 </div>
 
-### 🧠 Knowledge and Favorite Tools 🧰
+<div align="center">
+  <h3>🧠 Knowledge and Favorite Tools 🧰</h3>
+</div>
+ 
 <div align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge">
@@ -39,8 +42,7 @@
 
 <p>
   <div align="center">
-    <b>Certificados</b>
-    <br><br>
+    <h3>📚 Certifications 🎓</h3>
     <a href="https://www.credly.com/badges/1cd4a045-8ff5-4bb7-90e1-2ef75f465b8f/public_url" target"_blank">
       <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="180px">
     </a>
