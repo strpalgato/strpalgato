@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <p align="center">I'm studying Computer Engineering and I'm also a hobby content creator. I usually code different types of applications which I like to deploy on cloud devices. While my career has to do with project management and software development, I also like hardware and home automation.</p>
+  <p align="center">I'm studying Computer Engineering and I'm also a hobby content creator. I usually code various types of applications that I like to deploy on cloud devices. While my career is related to project management and software development, I also like hardware and home automation.</p>
 </div>
 
 <div align="center">
