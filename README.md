@@ -46,7 +46,7 @@
   </div>
 </p>
 
-- - -
+<hr>
 <p align="center">
   <img src="https://imgur.com/4fynIyb.gif">
 </p>
