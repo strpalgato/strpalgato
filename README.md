@@ -5,8 +5,29 @@
 </div>
 
 <div>
-  <p>I am studying Computer Engineering and I am also a hobby content creator. I usually code different types of applications which I like to deploy on cloud devices. While my career has to do with project management and software development, I also like hardware and home automation.</p>
+  <p align="center">I am studying Computer Engineering and I am also a hobby content creator. I usually code different types of applications which I like to deploy on cloud devices. While my career has to do with project management and software development, I also like hardware and home automation.</p>
 </div>
+
+### 🧠 Knowledge and Favorite Tools 🧰
+<div align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Termius-000?logo=termius&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/UML-FABD14?logo=uml&logoColor=000&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge">
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge">
+</div>
+
+<br>
+
 
 <table align="center">
   <tr>
