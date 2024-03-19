@@ -51,5 +51,5 @@
 
 <hr>
 <p align="center">
-  <img src="https://imgur.com/4fynIyb.gif">
+  <img src="https://imgur.com/B2Fqybr.gif">
 </p>
