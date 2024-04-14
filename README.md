@@ -44,7 +44,11 @@
   <div align="center">
     <h3>📚 Certifications 🎓</h3>
     <a href="https://www.credly.com/badges/1cd4a045-8ff5-4bb7-90e1-2ef75f465b8f/public_url" target"_blank">
-      <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="180px">
+      <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="180px">      
+    </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.credly.com/badges/0c7a3162-6fdd-4ff2-9094-893abca3ca7e/public_url" target"_blank">
+      <img src="https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" width="180px">
     </a>
   </div>
 </p>
