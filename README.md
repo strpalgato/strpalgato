@@ -55,7 +55,16 @@
   </tr>
 </table>
 
-<hr>
-<p align="center">
+<div align="center">
   <img src="https://imgur.com/B2Fqybr.gif">
-</p>
+</div>
+
+ <!---<table align="center">
+   <tr>
+     <td>
+          <img src="https://imgur.com/B2Fqybr.gif">
+     </td>
+   </tr>
+ </table>-->
+ 
+
